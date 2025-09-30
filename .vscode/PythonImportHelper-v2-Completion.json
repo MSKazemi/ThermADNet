@@ -1,0 +1,1255 @@
+[
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "dask.dataframe",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dask.dataframe",
+        "description": "dask.dataframe",
+        "detail": "dask.dataframe",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "datetime,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime.",
+        "description": "datetime.",
+        "detail": "datetime.",
+        "documentation": {}
+    },
+    {
+        "label": "data_provider,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "data_provider.",
+        "description": "data_provider.",
+        "detail": "data_provider.",
+        "documentation": {}
+    },
+    {
+        "label": "importlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib",
+        "description": "importlib",
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "imp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "imp",
+        "description": "imp",
+        "detail": "imp",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.functional",
+        "description": "torch.functional",
+        "detail": "torch.functional",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "summary",
+        "importPath": "torchinfo",
+        "description": "torchinfo",
+        "isExtraImport": true,
+        "detail": "torchinfo",
+        "documentation": {}
+    },
+    {
+        "label": "summary",
+        "importPath": "torchinfo",
+        "description": "torchinfo",
+        "isExtraImport": true,
+        "detail": "torchinfo",
+        "documentation": {}
+    },
+    {
+        "label": "summary",
+        "importPath": "torchinfo",
+        "description": "torchinfo",
+        "isExtraImport": true,
+        "detail": "torchinfo",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "redirect_stdout",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "redirect_stdout",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "redirect_stdout",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "function_set",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "function_set",
+        "description": "function_set",
+        "detail": "function_set",
+        "documentation": {}
+    },
+    {
+        "label": "dump",
+        "importPath": "pickle",
+        "description": "pickle",
+        "isExtraImport": true,
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "importPath": "pickle",
+        "description": "pickle",
+        "isExtraImport": true,
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "importPath": "pickle",
+        "description": "pickle",
+        "isExtraImport": true,
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "mohsenutils,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mohsenutils.",
+        "description": "mohsenutils.",
+        "detail": "mohsenutils.",
+        "documentation": {}
+    },
+    {
+        "label": "metrics",
+        "importPath": "sklearn",
+        "description": "sklearn",
+        "isExtraImport": true,
+        "detail": "sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "plot_confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "autoencoder_helper",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "autoencoder_helper",
+        "description": "autoencoder_helper",
+        "detail": "autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "mohsenutils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mohsenutils",
+        "description": "mohsenutils",
+        "detail": "mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "os,sys,glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.sys.glob",
+        "description": "os.sys.glob",
+        "detail": "os.sys.glob",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "MLP_AE_dataset",
+        "kind": 6,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "class MLP_AE_dataset(Dataset):\n    def __init__(self,dataframe):\n        self.dataframe = dataframe\n    def __len__(self):\n        return len(self.dataframe)\n    def __getitem__(self, idx):\n        return self.dataframe[idx,:], self.dataframe[idx,:]\ndef MLP_AE_data_provider(dataframe, test_size, grey_data_train_threshold, batch_size_train, batch_size_test, shuffle):\n    \"\"\"\n    return {'abnormal_data_index':abnormal_data_index,",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "MLP_autoencoder2",
+        "kind": 6,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "class MLP_autoencoder2(nn.Module):\n    def __init__(self, input_size, dropout):\n        super(MLP_autoencoder2, self).__init__()\n        self.encoder = nn.Sequential(\n            nn.Linear(input_size, 150),\n            nn.ReLU(),\n            nn.Linear(150, 50),\n            nn.ReLU(),\n            nn.Linear(50, 10),\n            nn.ReLU())",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM_AE_dataset",
+        "kind": 6,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "class LSTM_AE_dataset(Dataset):\n    def __init__(self, dataframe, Time_Window, Index_lst):\n        self.dataframe = dataframe\n        self.Time_Window = Time_Window\n        self.Index_lst = Index_lst\n    def _one_timeseries(self, idx):\n        '''\n        return pandas DataFrame\n        rows are futuers columns are timestamp\n        _one_timeseries(dataframe=ambient_dt, Time_Window=datetime.timedelta(hours=6), index=pd.to_datetime('2021-06-22 23:30:00'))",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "Encoder",
+        "kind": 6,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "class Encoder(nn.Module):\n  def __init__(self, seq_len, n_features, embedding_dim=64):\n    super(Encoder, self).__init__()\n    self.seq_len, self.n_features = seq_len, n_features\n    self.embedding_dim, self.hidden_dim = embedding_dim, 2 * embedding_dim\n    self.rnn1 = nn.LSTM(input_size=n_features,hidden_size=self.hidden_dim,num_layers=1,batch_first=True)\n    self.rnn2 = nn.LSTM(input_size=self.hidden_dim,hidden_size=embedding_dim,num_layers=1,batch_first=True)\n  def forward(self, x):\n#     print('Encoder')\n#     print(f'Size of input: {x.size()}')",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "Decoder",
+        "kind": 6,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "class Decoder(nn.Module):\n  def __init__(self, seq_len, input_dim=64, n_features=5):\n    super(Decoder, self).__init__()\n    self.seq_len, self.input_dim = seq_len, input_dim\n    self.hidden_dim, self.n_features = 2 * input_dim, n_features\n    self.rnn1 = nn.LSTM(input_size=input_dim,hidden_size=input_dim,num_layers=1,batch_first=True)\n    self.rnn2 = nn.LSTM(input_size=input_dim,hidden_size=self.hidden_dim,num_layers=1,batch_first=True)\n    self.output_layer = nn.Linear(self.hidden_dim, n_features)\n  def forward(self, x):\n#     print('Decoder')",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "RecurrentAutoencoder",
+        "kind": 6,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "class RecurrentAutoencoder(nn.Module):\n  def __init__(self, seq_len, n_features, embedding_dim=64):\n    super(RecurrentAutoencoder, self).__init__()\n    self.encoder = Encoder(seq_len, n_features, embedding_dim)\n    self.decoder = Decoder(seq_len, embedding_dim, n_features)\n  def forward(self, x):\n    x = self.encoder(x)\n    x = self.decoder(x)\n    return x\ndef lstm_train_loop(dataloader, model, criterion, optimizer,device):",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "flags_data",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def flags_data(rack='205', \n               ambient_dt=True,\n               pcie_dt=True,\n               fsnd_dt=True,\n               psnd_dt=True,\n               gpu0_dt=True,\n               gpu1_dt=True,\n               gpu3_dt=True,\n               gpu4_dt=True,\n               cpu0_dt=True,",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "flags_data_new",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def flags_data_new(rack='205', \n               ambient_dt=True,\n               pcie_dt=True,\n               fsnd_dt=True,\n               psnd_dt=True,\n               gpu0_dt=True,\n               gpu1_dt=True,\n               gpu3_dt=True,\n               gpu4_dt=True,\n               cpu0_dt=True,",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "flags_data_2022_04_07",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def flags_data_2022_04_07(rack='205', \n               ambient_dt=True,\n               pcie_dt=True,\n               fsnd_dt=True,\n               psnd_dt=True,\n               gpu0_dt=True,\n               gpu1_dt=True,\n               gpu3_dt=True,\n               gpu4_dt=True,\n               cpu0_dt=True,",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "MLP_AE_data_provider",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def MLP_AE_data_provider(dataframe, test_size, grey_data_train_threshold, batch_size_train, batch_size_test, shuffle):\n    \"\"\"\n    return {'abnormal_data_index':abnormal_data_index,\n            'normal_data_train_index':normal_data_train_index,\n            'normal_data_test_index':normal_data_test_index,\n            'grey_data_index':grey_data_index,\n            'grey_data_train_index':grey_data_train_index,\n            'train_data_index':train_data_index,\n            'fit_scaler_fun':scaler,\n            'train_dataloader':train_dataloader,",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "train_loop",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def train_loop(dataloader, model, criterion, optimizer,device):\n    loss = 0\n    for batch, (X,y) in enumerate(dataloader):\n        X = X.to(device).float()\n        y = y.to(device).float()\n#         display('X',X.size())\n#         display('y',y.size())\n        pred = model(X)\n#         display('pred',pred.size())\n        loss_batch = criterion(pred, y)",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "test_loop",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def test_loop(dataloader, model, criterion,device):\n    loss = 0\n    with torch.no_grad():\n        for batch, (X,y) in enumerate(dataloader):\n            X = X.to(device).float()\n            y = y.to(device).float()\n            pred = model(X)\n            loss += criterion(pred, y).item()*len(X)\n        loss /= len(dataloader.dataset)\n    return loss ",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "cancel_index_with_null",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def cancel_index_with_null(dataframe, Time_Window, total_null_threshold=None, row_null_threshold=None, verbose=False):\n    verboseprint = print if verbose else lambda *a, **k: None\n    null_index = []\n    index_list_null_removed = dataframe.index\n    for idx in dataframe.index:\n        drop_idx_flag = True\n        df_TW = dataframe.loc[idx-Time_Window+datetime.timedelta(seconds=1):idx, :]\n        if  total_null_threshold: \n            if df_TW.isnull().sum(axis=1).sum() >= total_null_threshold:\n                if drop_idx_flag:",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM_AE_data_provider",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def LSTM_AE_data_provider(dataframe, test_size, grey_data_range, grey_data_train_threshold, batch_size_train, batch_size_test, shuffle, Time_Window=datetime.timedelta(minutes=20), total_null_threshold=12, row_null_threshold=6,verbose=False):\n    '''\n        return {'abnormal_data_index':abnormal_data_index,\n                'normal_data_train_index':normal_data_train_index,\n                'normal_data_test_index':normal_data_test_index,\n                'grey_data_index':grey_data_index,\n                'grey_data_train_index':grey_data_train_index,\n                'train_data_index':train_data_index,\n                'fit_scaler_fun':scaler,\n                'train_dataloader':train_dataloader,",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "lstm_train_loop",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def lstm_train_loop(dataloader, model, criterion, optimizer,device):\n    loss = 0\n    for batch, X in enumerate(dataloader):\n        X = torch.transpose(X[0],1,2)\n        X = X.to(device).float()\n#         display('X',X.size())\n        pred = model(X)\n#         display('pred',pred.size())\n        loss_batch = criterion(pred, X)\n        optimizer.zero_grad()",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "lstm_test_loop",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def lstm_test_loop(dataloader, model, criterion,device):\n    loss = 0\n    with torch.no_grad():\n        for batch, X in enumerate(dataloader):\n            X = torch.transpose(X[0],1,2)\n            X = X.to(device).float()\n            pred = model(X)\n            loss += criterion(pred, X).item()\n        loss /= len(dataloader.dataset)\n    return loss",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM_AE_Complete_Monthly",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def LSTM_AE_Complete_Monthly(dir_name,\n                             rack = '205',\n                             test_size = 0.000000001,\n                             batch_size_train = 1,\n                             batch_size_test = 1,\n                             shuffle = True,\n                             epochs = 100,\n                             learning_rate = 1e-3,\n                             dropout = 0,\n                             cuda='3',",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "add_label_grey_grey_train",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def add_label_grey_grey_train(df, grey_data_range_train_threshold, verbose=False):\n    verboseprint = print if verbose else lambda *a, **k: None\n    verboseprint()\n    verboseprint(50*'+-')\n    verboseprint()\n    verboseprint('Unique Labels Before the Grey', df.Label.unique())\n    grey_index = df.query('@grey_data_range_train_threshold[0] <= sum_flags <= @grey_data_range_train_threshold[1]').index\n    grey_train_index = df.query('@grey_data_range_train_threshold[0] <= sum_flags <= @grey_data_range_train_threshold[2]').index\n    verboseprint('Unique Sum Flags of Grey: ',np.sort(df.loc[grey_index,:].sum_flags.unique()))\n    df.loc[grey_index,'Label']='grey'",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "apply_set_fun",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def apply_set_fun(dataframes, verbose=False):\n    verboseprint = print if verbose else lambda *a, **k: None\n    verbosedisplay = display if verbose else lambda *a, **k: None\n    for df in dataframes:\n        verboseprint()\n        verboseprint(30*'+-~')\n        verboseprint()\n        df.sort_index(inplace=True)\n        df.drop(index = pd.to_datetime(df.index[0]), inplace=True) # Drop first Row scince there is no label in the firts row of the LSTM\n        verbosedisplay(df)",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "classifier_flag",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def classifier_flag(row, *grey_data_range_train_threshold):\n#     print(row)\n    if row['sum_flags']>grey_data_range_train_threshold[1]:\n        clss = 1\n    elif row['sum_flags']<grey_data_range_train_threshold[0]:\n        clss = 0\n    else:\n        clss = 0.5\n    return clss\ndef classifier_error(row, train_error_threshold):",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "classifier_error",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def classifier_error(row, train_error_threshold):\n    if row['Error']>train_error_threshold:\n        clss = 1\n    else:\n        clss = 0 \n    return clss        \ndef process_error_AE(df, grey_data_range_train_threshold, train_error_threshold_quantile=None, train_error_threshold=None, verbose=False):\n    assert (train_error_threshold_quantile != None) ^ (train_error_threshold != None), 'Please check the train_error_threshold_quantile and train_error_threshold one of these should be not None'\n    verboseprint = print if verbose else lambda *a, **k: None\n#     display(df)",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "process_error_AE",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def process_error_AE(df, grey_data_range_train_threshold, train_error_threshold_quantile=None, train_error_threshold=None, verbose=False):\n    assert (train_error_threshold_quantile != None) ^ (train_error_threshold != None), 'Please check the train_error_threshold_quantile and train_error_threshold one of these should be not None'\n    verboseprint = print if verbose else lambda *a, **k: None\n#     display(df)\n    df_train = df.query(\"Label == 'train' or Label == 'grey_train'\")\n    df_test = df.query(\"Label == 'test'\")\n    df_abnormal = df.query(\"Label == 'abnormal'\")\n    df_grey = df.query(\"Label == 'grey'\")\n    # train_error_threshold = 3*df_train[['Error']].std().values\n    # train_error_threshold = 5*df_train[['Error']].std().values",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "acc_f1_results",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def acc_f1_results(dataframes_dic, verbose=False):\n    verboseprint = print if verbose else lambda *a, **k: None\n    metric_results = pd.DataFrame(columns=[\"grey_data_range_train_threshold\",\"Acc. Test Normal\", \"Acc. Abnormal\", \"Av. Acc.\", \"Av. F1-score\", \"TN\", \"FP\", \"FN\", \"TP\"])\n    for i, df_dic in enumerate(dataframes_dic):\n        acc_test_normal = accuracy_score(df_dic['df'].query(\"Label=='test'\")['class_flags'],df_dic['df'].query(\"Label=='test'\")['class_error'])\n        acc_abnormal = accuracy_score(df_dic['df'].query(\"Label=='abnormal'\")['class_flags'],df_dic['df'].query(\"Label=='abnormal'\")['class_error'])\n        acc_mean = accuracy_score(df_dic['df'].query(\"Label=='test'or Label=='abnormal'\")['class_flags'],df_dic['df'].query(\"Label=='test'or Label=='abnormal'\")['class_error'])\n        f1_mean = f1_score(df_dic['df'].query(\"Label=='test'or Label=='abnormal'\")['class_flags'],df_dic['df'].query(\"Label=='test'or Label=='abnormal'\")['class_error'])\n        TN, FP, FN, TP = function_set.conf_mat(df_dic['df'].query(\"Label=='test'or Label=='abnormal'\")['class_flags'],df_dic['df'].query(\"Label=='test'or Label=='abnormal'\")['class_error'])\n        verboseprint(np.round(acc_test_normal, 2),np.round(acc_abnormal, 2),np.round(acc_mean, 2),np.round(f1_mean, 2))",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "AE_abnormal_grey",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def AE_abnormal_grey(dataframes):    \n    AE_abnormal_grey = pd.DataFrame(columns=['# Grey Train Dt Exld','Abnrml AE % of Train Exld','# Grey Train Dt Inld','Abnrml AE % of Train Inld'])\n    for i in range(6):\n        AE_abnormal_grey.loc[i,['# Grey Train Dt Exld','Abnrml AE % of Train Exld','# Grey Train Dt Inld','Abnrml AE % of Train Inld']]=\\\n        [dataframes[i].query(\"Label=='grey'\").shape[0],\n         dataframes[i].query(\"Label=='grey'\")['class_error'].mean(),\n         dataframes[i][((dataframes[i]['sum_flags']>0) & (dataframes[i]['sum_flags']<25+1))].shape[0],\n         dataframes[i][((dataframes[i]['sum_flags']>0) & (dataframes[i]['sum_flags']<25+1))]['class_error'].mean()]\n    return AE_abnormal_grey\ndef percentage_Class_One(dataframes):",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "percentage_Class_One",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def percentage_Class_One(dataframes):\n    percentage_class1 =  pd.DataFrame(columns=['%Flags Abnormal','%Flags Normal','%Flags Grey','%AE Abnormal'])  \n    for i, dataframe in enumerate(dataframes):\n        percentage_class1.loc[i, ['%Flags Abnormal','%Flags Normal','%Flags Grey','%AE Abnormal']] =\\\n            [100*len(dataframe.query(\"class_flags==1\"))/len(dataframe),\n             100*len(dataframe.query(\"class_flags==0\"))/len(dataframe),\n             100*len(dataframe.query(\"class_flags==0.5\"))/len(dataframe),\n             100*len(dataframe.query(\"class_error==1\"))/len(dataframe)]\n    return percentage_class1\ndef compare(row, col1, col2):",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "compare",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def compare(row, col1, col2):\n#     print(row[col1], row[col2])\n    if row[col1]==0.5:\n#         print('yes')\n        return np.nan\n    else:\n        if row[col1] == row[col2]:\n#             print(\"OK\")\n            return 0 \n        else:",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "add_label",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def add_label(df, grey_data_range_train_threshold, start_train, stop_train, verbose=False):\n    verboseprint = print if verbose else lambda *a, **k: None\n    verboseprint()\n    verboseprint(50*'+-')\n    verboseprint('Labels:', df[['Label']].value_counts(), '\\nNull:',df['Label'].isnull().sum())\n    verboseprint()\n    verboseprint('Unique Labels Before the Grey', df.Label.unique())\n    df.loc[start_train:stop_train, ['Label']] = 'Train_Month_'+df.loc[start_train:stop_train, ['Label']]\n    verboseprint('Labels:', df[['Label']].value_counts(), '\\nNull:',df['Label'].isnull().sum())\n    not_null_index = df[~df['Label'].isnull()].index",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "inference_prediction_dataframe",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def inference_prediction_dataframe(save_results_dir_path, model_dir_path, pred_dataframe_file_name, inference_file_name):\n    SEED = 1234\n    random.seed(SEED)\n    np.random.seed(SEED)\n    torch.manual_seed(SEED)\n    torch.cuda.manual_seed(SEED)\n    torch.backends.cudnn.deterministic = True\n    ################\n    #  Parameters  #\n    ################",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "L1loss_row_sum",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def L1loss_row_sum(prediction_df, ground_truth_df):\n    mohsenutils.check_same_columns(prediction_df, ground_truth_df)    \n    assert prediction_df.shape == ground_truth_df.shape, 'The shape of the prediction_df, ground_truth_df should be same !!!' + str(prediction_df.shape) + str(ground_truth_df.shape)\n    l1_loss = np.abs(prediction_df - ground_truth_df).sum(axis=1)\n    l1_loss = pd.DataFrame({'Sum':l1_loss})\n    return l1_loss\ndef L1loss(prediction_df, ground_truth_df):\n    mohsenutils.check_same_columns(prediction_df, ground_truth_df)    \n    assert prediction_df.shape == ground_truth_df.shape, 'The shape of the prediction_df, ground_truth_df should be same !!!'+ str(prediction_df.shape) + str(ground_truth_df.shape)\n    return np.abs(mohsenutils.diff_pd_dataframe(prediction_df, ground_truth_df))",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "L1loss",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def L1loss(prediction_df, ground_truth_df):\n    mohsenutils.check_same_columns(prediction_df, ground_truth_df)    \n    assert prediction_df.shape == ground_truth_df.shape, 'The shape of the prediction_df, ground_truth_df should be same !!!'+ str(prediction_df.shape) + str(ground_truth_df.shape)\n    return np.abs(mohsenutils.diff_pd_dataframe(prediction_df, ground_truth_df))\ndef Error_1(prediction_df, ground_truth_df):\n    \"\"\"\n    Error =  |prediction_df - ground_truth_df| / max(|prediction_df|, |ground_truth_df|)\n    prediction_df=NaN, or/and ground_truth_df=NaN  ==> Error=NaN\n    prediction_df=0, and ground_truth_df=0  ==> Error=0\n    \"\"\"",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "Error_1",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def Error_1(prediction_df, ground_truth_df):\n    \"\"\"\n    Error =  |prediction_df - ground_truth_df| / max(|prediction_df|, |ground_truth_df|)\n    prediction_df=NaN, or/and ground_truth_df=NaN  ==> Error=NaN\n    prediction_df=0, and ground_truth_df=0  ==> Error=0\n    \"\"\"\n    mohsenutils.check_same_columns(prediction_df, ground_truth_df)\n    assert prediction_df.shape == ground_truth_df.shape, 'The shape of the prediction_df, ground_truth_df should be same !!!'+ str(prediction_df.shape) + str(ground_truth_df.shape)\n    df_max = np.abs(prediction_df).where(np.abs(prediction_df)>np.abs(ground_truth_df), np.abs(ground_truth_df))\n    df_max = df_max.where(~prediction_df.isnull(), np.nan)",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "Error_2",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def Error_2(prediction_df, ground_truth_df):\n    \"\"\"\n    Error =  |prediction_df - ground_truth_df| / max(|ground_truth_df|)\n    \"\"\"\n    mohsenutils.check_same_columns(prediction_df, ground_truth_df)    \n    assert prediction_df.shape == ground_truth_df.shape, 'The shape of the prediction_df, ground_truth_df should be same !!!'+ str(prediction_df.shape) + str(ground_truth_df.shape)\n    return np.abs(mohsenutils.diff_pd_dataframe(prediction_df, ground_truth_df)/np.abs(ground_truth_df).max())\ndef error_location_time_sensors(Loss_function, prediction_df, ground_truth_df, L1loss_row_sum_range, loss_item_range_greater_than):\n    \"\"\"\n    return dictionary with timestamp and names of the columns that has high loss.",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "error_location_time_sensors",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def error_location_time_sensors(Loss_function, prediction_df, ground_truth_df, L1loss_row_sum_range, loss_item_range_greater_than):\n    \"\"\"\n    return dictionary with timestamp and names of the columns that has high loss.\n    \"\"\"\n    l1loss_row = L1loss_row_sum(prediction_df, ground_truth_df)\n    loss_df = Loss_function(prediction_df, ground_truth_df)\n    if L1loss_row_sum_range[0] != None:\n        l1loss_row = l1loss_row[(l1loss_row['Sum'] >= L1loss_row_sum_range[0])]\n    if L1loss_row_sum_range[1] != None:\n        l1loss_row = l1loss_row[(l1loss_row['Sum'] <= L1loss_row_sum_range[1])]",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "error_physical_units",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def error_physical_units(Loss_function, scaler_path, prediction_scl_dataframe_file_path):\n    # load the scaler\n    scaler = load(open(scaler_path, 'rb'))\n    prediction_scl = pd.read_csv(prediction_scl_dataframe_file_path, index_col='Unnamed: 0', parse_dates=True, date_parser=pd.to_datetime)\n    prediction_scl.index.name='timestamp'\n    prediction_scl.sort_index(inplace=True)\n    prediction_scl.sort_index(inplace=True)\n    prediction_Rescl = mohsenutils.mrg(None,'inner',\n                                       pd.DataFrame(scaler.inverse_transform(prediction_scl.iloc[:, :242]), \n                                                    columns=prediction_scl.iloc[:, :242].columns, ",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "save_results_error_location_time_sensors",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def save_results_error_location_time_sensors(model_dir_path, L1loss_row_sum_range, loss_item_range_greater_than, Loss_function, output_file_name='Error_location_Inference_to_2021_08_17_23_50.txt'):\n    import os, sys, imp, datetime, pytz, imp\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    sys.path.append('/home/seyedkazemi/codes/Marconi100/DNN/')\n    import pandas as pd, numpy as np\n    import data_provider, mohsenutils, m100_preprocessing_helper, flag_helper\n    from  matplotlib import pyplot as plt\n    import torch \n    import torch.nn as nn\n    import torch.functional as f",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "error_location_AEandflgas",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "def error_location_AEandflgas(ae_error_location_txt_pth, falgs_csv_pth, timestamp, ae_recon_error_prec=0.1):\n    with open(ae_error_location_txt_pth) as text:\n        txt = text.read()\n    txt = txt.replace(\"\\'\", \"\\\"\")\n    Error_location = json.loads(txt)\n    keys_rng = pd.to_datetime(list(Error_location.keys()))\n    keys_rng = keys_rng.sort_values()\n    error_location_ae_dt = pd.DataFrame.from_dict(Error_location[str(timestamp)], orient='index', columns=['Error_of_Reconstruction'])\n    error_location_ae_dt = error_location_ae_dt.query('Error_of_Reconstruction>@ae_recon_error_prec')\n    error_location_ae = set([i.split('_pst_1')[0] for i in list(error_location_ae_dt.index) ])",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "pd.options.display.float_format",
+        "kind": 5,
+        "importPath": "thermadnet-paper.src.models.autoencoder_helper",
+        "description": "thermadnet-paper.src.models.autoencoder_helper",
+        "peekOfCode": "pd.options.display.float_format = \"{:,.2f}\".format\ndef add_label_grey_grey_train(df, grey_data_range_train_threshold, verbose=False):\n    verboseprint = print if verbose else lambda *a, **k: None\n    verboseprint()\n    verboseprint(50*'+-')\n    verboseprint()\n    verboseprint('Unique Labels Before the Grey', df.Label.unique())\n    grey_index = df.query('@grey_data_range_train_threshold[0] <= sum_flags <= @grey_data_range_train_threshold[1]').index\n    grey_train_index = df.query('@grey_data_range_train_threshold[0] <= sum_flags <= @grey_data_range_train_threshold[2]').index\n    verboseprint('Unique Sum Flags of Grey: ',np.sort(df.loc[grey_index,:].sum_flags.unique()))",
+        "detail": "thermadnet-paper.src.models.autoencoder_helper",
+        "documentation": {}
+    },
+    {
+        "label": "node_selector",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.data_provider",
+        "description": "thermadnet-paper.src.models.data_provider",
+        "peekOfCode": "def node_selector(cluster, height=None, rack=None):\n    \"\"\"\n    node_list = node_selector(cluster, height=None, rack=None)\n    \"\"\"\n    assert cluster in ['A2', 'M100'], 'cluster is NOT correcte. either \"A2\" or \"M100\"'\n    if cluster=='A2':\n        node_list = list(np.loadtxt('/home/seyedkazemi/codes/HPCRoomModel/mskhelper/A2_node_list.csv', delimiter=',',dtype='str'))\n        if not height==None:\n            node_list = [node for node in node_list if 'c'+str(height) in node]\n        if not rack==None:",
+        "detail": "thermadnet-paper.src.models.data_provider",
+        "documentation": {}
+    },
+    {
+        "label": "data_path",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.data_provider",
+        "description": "thermadnet-paper.src.models.data_provider",
+        "peekOfCode": "def data_path(cluster, interpolation, data_type):\n    '''\n    path = data_path(cluster, interpolation, data_type)\n    interpolation:{'after', 'before'}\n    A2 ==> data_type:{'Inlet', 'Outlet', 'Power'}\n    M100 ==> data_type:{'ambient', 'pcie', 'total_power'}\n    '''\n    assert cluster in ['A2', 'M100'], 'Error in cluster name!!!! it should be either \"A2\" or \"M100\"'\n    if cluster == 'A2':\n        assert interpolation in ['after', 'before'], 'interpolation is NOT correcte. \"after\" or \"before\"'",
+        "detail": "thermadnet-paper.src.models.data_provider",
+        "documentation": {}
+    },
+    {
+        "label": "data_read",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.data_provider",
+        "description": "thermadnet-paper.src.models.data_provider",
+        "peekOfCode": "def data_read(data_path, cluster, sampling_rate=None, selected_node=None, nrows=None):\n    \"\"\"\n    data = data_read(data_path, cluster, sampling_rate=None, selected_node=None, nrows=None)\n    \"\"\"\n    assert cluster in ['A2', 'M100'], 'Error in cluster name!!!! it should be either \"A2\" or \"M100\"'\n    if cluster == 'A2':\n        if not selected_node == None:\n            selected_node.append('index')\n        data = pd.read_csv(data_path, parse_dates=True, date_parser=pd.to_datetime, index_col='index', usecols=selected_node, nrows=nrows)\n    elif cluster == 'M100':",
+        "detail": "thermadnet-paper.src.models.data_provider",
+        "documentation": {}
+    },
+    {
+        "label": "data_date_filter",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.data_provider",
+        "description": "thermadnet-paper.src.models.data_provider",
+        "peekOfCode": "def data_date_filter(data, start=None, end=None):\n    '''\n    data = data_date_filter(data, start='2019-06-01 00:00:00', end='2019-07-01 00:00:00')\n    '''\n    data = mohsenutils.data_index_conv(data)\n    if not start==None:\n        data = data.loc[data.index>=start,:]\n    if not end==None:\n        data = data.loc[data.index<end,:]\n    print('Data shape after data_date_filter ', data.shape)",
+        "detail": "thermadnet-paper.src.models.data_provider",
+        "documentation": {}
+    },
+    {
+        "label": "data_provider",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.data_provider",
+        "description": "thermadnet-paper.src.models.data_provider",
+        "peekOfCode": "def data_provider(cluster, interpolation, data_type, sampling_rate=None, nrows=None, height=None, rack=None, start=None, end=None):\n    print('Data Type '+data_type)\n    data = data_read(cluster=cluster, \n                     data_path=data_path(cluster=cluster, interpolation=interpolation, data_type=data_type), \n                     sampling_rate=sampling_rate, \n                     selected_node=node_selector(cluster=cluster, height=height, rack=rack),\n                     nrows=nrows)\n    data = data_date_filter(data=data, start=start, end=end)\n    print('--'*30,'\\n')\n    return data",
+        "detail": "thermadnet-paper.src.models.data_provider",
+        "documentation": {}
+    },
+    {
+        "label": "item_cnclr",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.data_provider",
+        "description": "thermadnet-paper.src.models.data_provider",
+        "peekOfCode": "def item_cnclr(index_list, window, i):\n    mask_min = index_list > index_list[i]-datetime.timedelta(**window)\n    mask_max = index_list < index_list[i]+datetime.timedelta(**window)\n    mask = ~ (mask_min & mask_max)\n    index_list = index_list[mask]\n    return index_list\ndef cnclr(index_list, window):\n    remain = []\n    while not len(index_list)==0:\n        remain.append(index_list[0])",
+        "detail": "thermadnet-paper.src.models.data_provider",
+        "documentation": {}
+    },
+    {
+        "label": "cnclr",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.data_provider",
+        "description": "thermadnet-paper.src.models.data_provider",
+        "peekOfCode": "def cnclr(index_list, window):\n    remain = []\n    while not len(index_list)==0:\n        remain.append(index_list[0])\n        index_list = item_cnclr(index_list, window, i=0)\n    return remain\ndef slicer(data, index, window):\n    '''\n    data = slicer(data, index, window)\n    '''",
+        "detail": "thermadnet-paper.src.models.data_provider",
+        "documentation": {}
+    },
+    {
+        "label": "slicer",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.data_provider",
+        "description": "thermadnet-paper.src.models.data_provider",
+        "peekOfCode": "def slicer(data, index, window):\n    '''\n    data = slicer(data, index, window)\n    '''\n    min_mask = data.index > index - datetime.timedelta(**window)\n    max_mask = data.index < index + datetime.timedelta(**window)\n    mask = min_mask & max_mask\n    return data[mask]",
+        "detail": "thermadnet-paper.src.models.data_provider",
+        "documentation": {}
+    },
+    {
+        "label": "remove_Unnamed",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "description": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "peekOfCode": "def remove_Unnamed(df, log=False):\n    if 'Unnamed: 0' in df.columns:\n        df.drop('Unnamed: 0', axis=1, inplace=True)\n        if log == True:\n            logging.info(\"'Unnamed: 0' ==> Dropped !!!\")\n    return df\ndef unique_val(df, log=False):\n    columns = list(df.columns)\n    print(columns)\n    if log == True:",
+        "detail": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "documentation": {}
+    },
+    {
+        "label": "unique_val",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "description": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "peekOfCode": "def unique_val(df, log=False):\n    columns = list(df.columns)\n    print(columns)\n    if log == True:\n        logging.info(columns)\n    if 'value' in columns:\n        columns.remove('value')\n    if 'timestamp' in columns:\n        columns.remove('timestamp')\n    print(columns)",
+        "detail": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "documentation": {}
+    },
+    {
+        "label": "pvt",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "description": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "peekOfCode": "def pvt(df, freq, index=None, columns='node', values='value', log=False):\n    df = df.pivot_table(index=index,columns=columns, values=values)\n    print(df)\n    print('Data shape after pivot: ', df.shape)\n    df.index = pd.to_datetime(df.index)\n    df = mohsenutils.data_index_conv(df)\n    if log == True:\n        logging.info('Data shape after pivot: '+str(df.shape))\n    df = df.resample(freq).mean()\n    print('Data shape after resample: ', df.shape)",
+        "detail": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "documentation": {}
+    },
+    {
+        "label": "concat_multiple_csvs",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "description": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "peekOfCode": "def concat_multiple_csvs(csvdir, big_csv_path_name, old_pivot_path, freq):\n#     assert not os.path.isfile(str(big_csv_path_name)), 'There is file with the same name in the ' + str(big_csv_path_name)\n    csvfiles = glob.glob(os.path.join(csvdir, '*.csv.gz'))\n    print(csvfiles)\n    dataframes = []  \n    for csvfile in csvfiles:\n        df = pd.read_csv(csvfile)\n        dataframes.append(df)\n    print('Number of file', len(dataframes))\n    if len(dataframes) > 1:",
+        "detail": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "documentation": {}
+    },
+    {
+        "label": "flag_min_chassis_of_rack",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "description": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "peekOfCode": "def flag_min_chassis_of_rack(data):\n    result = pd.DataFrame()\n    racks = list(set([c.split('n')[0].split('r')[1] for c in [c for c in data.columns if 'r' in c]]))\n    print(racks)\n    def _min_chassis(row):\n        try:\n            min_chassis =  int(row.split('n')[1])\n        except:\n            min_chassis = np.nan\n        return min_chassis",
+        "detail": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "documentation": {}
+    },
+    {
+        "label": "flag_pd_data_horiz_rank",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "description": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "peekOfCode": "def flag_pd_data_horiz_rank(data):\n    '''\n    receive a Pnadas Dataframe then return the an other Pandas DataFrame which the number of the celles show the horizontal ranck of the cell based on the numeric value.\n    for example, [15 1 80 3] ==> [2 0 3 1]\n    '''\n    def _rank(row):\n#         global e\n        sorted_row = sorted(row)\n#         if len(list(set(sorted_row))) != len(row):\n#             print(e,'Error, There are two or more columns with same Number !!! ')",
+        "detail": "thermadnet-paper.src.models.m100_preprocessing_helper",
+        "documentation": {}
+    },
+    {
+        "label": "Timer",
+        "kind": 6,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "class Timer():\n    def __init__(self):\n        self.start_dt = None\n    def start(self):\n        self.start_dt = dt.datetime.now()\n    def stop(self):\n        end_dt = dt.datetime.now()\n        print('Time taken: %s' % (end_dt - self.start_dt))\n##################\n# Name Generator ###############################################################",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "dir_name_creator",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def dir_name_creator(dir_name):\n    counter = 0\n    while os.path.isdir(dir_name):\n        counter += 1\n        dir_name = dir_name.split('(')[0]+'('+str(counter)+')'\n    return dir_name\ndef dir_creator(dir_name,readme_text=None):\n    dir_name = dir_name_creator(dir_name)\n    os.mkdir(dir_name)\n    if not readme_text==None:",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "dir_creator",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def dir_creator(dir_name,readme_text=None):\n    dir_name = dir_name_creator(dir_name)\n    os.mkdir(dir_name)\n    if not readme_text==None:\n        readme(dir_name+'/'+dir_name.split('/')[-1],readme_text)#\n    print(dir_name,' Created!')\n    return dir_name\ndef readme(readme_name,readme_text):\n    f= open(readme_name+\".txt\",\"w+\")\n    f.write(readme_text)",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "readme",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def readme(readme_name,readme_text):\n    f= open(readme_name+\".txt\",\"w+\")\n    f.write(readme_text)\n    f.close()\ndef image_name_creator(image_name):\n    '''\n    Create the image name.\n    '''\n    counter = 0\n    while os.path.isfile(image_name):",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "image_name_creator",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def image_name_creator(image_name):\n    '''\n    Create the image name.\n    '''\n    counter = 0\n    while os.path.isfile(image_name):\n        counter += 1\n        image_name, image_fromat = image_name.split('.')[0], image_name.split('.')[1]\n        print(image_name,image_fromat)\n        image_name = image_name.split('(')[0]+'('+str(counter)+').'+image_fromat",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "save_image",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def save_image(image_name='image.jpg'):\n    '''\n    please use before the plt.show()\n    save_image(image_name='image.jpg')\n    '''\n    image_name = image_name_creator(image_name)\n    plt.savefig(image_name,bbox_inches = 'tight', pad_inches = 0.2, dpi=200)\ndef csv_file_name_creator(path, file_name, log=False):\n    '''\n    Create a file name.",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "csv_file_name_creator",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def csv_file_name_creator(path, file_name, log=False):\n    '''\n    Create a file name.\n    '''\n    counter = 0\n    while os.path.isfile(path+file_name):\n        counter += 1\n        file_name, file_fromat = file_name.split('.csv')[0], file_name.split('.csv')[1:]\n        file_fromat = 'csv' + '.'.join(file_fromat)\n        file_name = file_name.split('(')[0]+'('+str(counter)+').'+file_fromat",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "file_name_creator",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def file_name_creator(path, file_name, log=False):\n    '''\n    Create a file name.\n    '''\n    counter = 0\n    while os.path.isfile(path+file_name):\n        counter += 1\n        file_name, file_fromat = file_name.split('.')[0], file_name.split('.')[1]\n        file_name = file_name.split('(')[0]+'('+str(counter)+').'+file_fromat\n    print('File name is : '+str(file_name))    ",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "update_col_name",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def update_col_name(lst_1, lst_2, suffixe):\n    new_lst_1 = []\n    for x in lst_1:\n        if x in lst_2:\n            x = str(x) + '_' + str(suffixe)\n        new_lst_1.append(x)\n    return new_lst_1\ndef mrg(on, how,  df, *dataframe, suffixe_lst=None):\n    '''\n    mrg(on, how,  df, *dataframe)",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "mrg",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def mrg(on, how,  df, *dataframe, suffixe_lst=None):\n    '''\n    mrg(on, how,  df, *dataframe)\n    '''\n    assert isinstance(df, pd.DataFrame), 'The df is not pd.DataFrame!!! Please check first item.'\n    for item, data in enumerate(dataframe):\n        assert isinstance(data, pd.DataFrame), 'The data is not pd.DataFrame!!! Please check item '+str(item)\n    if not on == None:\n        right_index, left_index = False, False\n    else:",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "same_index_range",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def same_index_range(df, *dataframs):\n    temp = []\n    result = []\n    for dt in dataframs:\n        df, dt = _same_index_range(df, dt)\n        temp.append(dt)\n    result.append(df)\n    for dt in temp:\n        df, dt = _same_index_range(df, dt)\n        result[0] = df",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "data_index_conv",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def data_index_conv(data):\n    '''\n    2020-03-10 10:00:00+01:00 ==> 2020-03-10 10:00:00\n    2021-04-08 14:50:00+02:00 ==> 2021-04-08 14:50:00\n    '''\n    def index_conv(row):\n        if isinstance(row.name, datetime.datetime) or isinstance(row.name, pandas.Timestamp):\n            new_row_name = datetime.datetime.strftime(row.name, '%Y-%m-%d %H:%M:%S')\n        elif isinstance(row.name, str):\n#             new_row_name = datetime.datetime.strftime(datetime.datetime.strptime(row.name, '%Y-%m-%d %H:%M:%S'), '%Y-%m-%d %H:%M:%S')",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "corlag",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def corlag(data, period, step):\n    '''\n    Return Pearson product-moment correlation coefficients with different lag that period of lag defined in the \"period\" and 'step' defines the step that each lages have.\n    corlag(data, period, step)\n    data should be pd.DataFrame.\n    '''\n    def _crlg(data, col1, col2, period, step):\n        index = 0\n        res = pd.DataFrame(columns=['lag', col1+'_'+col2])\n        for lag in range(0, period, step):",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "node_selector",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def node_selector(height=None, rack=None):\n    pth_In_Temp = '/home/seyedkazemi/dataset/OY_BB_Inlet_Temp_dataset/roomM_BB_Inlet_Temp_1min_01_2019_to_01_2020_after_interpolate_sampeling_10T.csv'\n    node_list = list(pd.read_csv(pth_In_Temp, index_col='index', nrows=1).columns.values)\n    if not height==None:\n        node_list = [node for node in node_list if 'c'+str(height) in node]\n    if not rack==None:\n        node_list = [node for node in node_list if 'r'+str(rack) in node]\n    print(len(node_list),' nodes is selected.')\n    print('For example:',random.sample(node_list, k = 4))\n    assert  len(node_list)>=4, 'Please check the rack and height !!!!!!!!!!'",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "df_shift_merge",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def df_shift_merge(dataframe, shift_range):\n    merged_df = pd.DataFrame()\n    for i in range(shift_range):\n        merged_df = mrg(None, 'outer',  merged_df, dataframe.shift(i), suffixe_lst=['pst_'+str(i)]) \n    return merged_df\ndef check_same_columns(df1, df2):\n    if len(df1.columns) != len(df2.columns):\n        print('Size of columns should be same !!!')\n    diff_col1 = [df1.columns[i] for i in range(len(df1.columns)) if df1.columns[i]!=df2.columns[i]]\n    if len(diff_col1)!=0:",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "check_same_columns",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def check_same_columns(df1, df2):\n    if len(df1.columns) != len(df2.columns):\n        print('Size of columns should be same !!!')\n    diff_col1 = [df1.columns[i] for i in range(len(df1.columns)) if df1.columns[i]!=df2.columns[i]]\n    if len(diff_col1)!=0:\n        print('Two dataframes should have same column names with same order !!!', diff_col1)\n    diff_col2 = [df2.columns[i] for i in range(len(df2.columns)) if df1.columns[i]!=df2.columns[i]]\n    if len(diff_col2)!=0:\n        print('Two dataframes should have same column names with same order !!!', diff_col2)\n    assert len(df1.columns) == len(df2.columns), 'Size of columns should be same !!!'",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "diff_pd_dataframe",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def diff_pd_dataframe(df1, df2):\n    '''\n    df = df1 - df2\n    '''\n    idx_1 = set(df1.index)\n    idx_2 = set(df2.index)\n    clmn_1 = set(df1.columns)\n    clmn_2 = set(df2.columns)\n    idx_1_dif_idx_2 = idx_1.difference(idx_2)\n    idx_2_dif_idx_1 = idx_2.difference(idx_1)",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "sum_pd_dataframe",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def sum_pd_dataframe(df1, df2):\n    '''\n    df = df1 + df2\n    '''\n    idx_1 = set(df1.index)\n    idx_2 = set(df2.index)\n    clmn_1 = set(df1.columns)\n    clmn_2 = set(df2.columns)\n    idx_1_dif_idx_2 = idx_1.difference(idx_2)\n    idx_2_dif_idx_1 = idx_2.difference(idx_1)",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "dataframe_splitter",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def dataframe_splitter(dataframe, Time_Window=datetime.timedelta(days=7) - datetime.timedelta(minutes=1), verbose=True):\n    verboseprint = print if verbose else lambda *a, **k: None\n    idx_1 = dataframe.index[0]\n    idx_2 = dataframe.index[0] + Time_Window\n    idx_lst = []\n    splitted_dataframe_lst = []\n    verboseprint(dataframe.index)\n    while idx_2 <= dataframe.index[-1]: \n        idx_lst.append((idx_1, idx_2))\n        splitted_dataframe_lst.append(dataframe.loc[idx_1:idx_2, :])",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "pd_row_to_columns_convertor",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.models.mohsenutils",
+        "description": "thermadnet-paper.src.models.mohsenutils",
+        "peekOfCode": "def pd_row_to_columns_convertor(dataframe, window):\n    \"\"\"_summary_\n    window = 2\n    imput \n    \t0\t1\n    0\t2\t4\n    1\t2\t1\n    2\t3\t2\n    3\t3\t1\n    4\t1\t0",
+        "detail": "thermadnet-paper.src.models.mohsenutils",
+        "documentation": {}
+    },
+    {
+        "label": "core_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "peekOfCode": "def core_pivot():        \n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    for metric in ['p1_core0_temp','p1_core10_temp','p1_core11_temp','p1_core12_temp','p1_core13_temp','p1_core14_temp','p1_core15_temp','p1_core16_temp',",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "CRAC_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "peekOfCode": "def CRAC_pivot():        \n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    pub = 'vertiv_pub'",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "modbus_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "peekOfCode": "def modbus_pivot():\n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    pub = 'logics_pub'",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "raw_data_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "peekOfCode": "def raw_data_pivot():            \n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    for metric in ['ambient',",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "RDHX_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "peekOfCode": "def RDHX_pivot():            \n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    pub = 'schneider_pub'",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "weather_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "peekOfCode": "def weather_pivot():\n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    pub = 'weather_pub'",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "kind": 5,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "peekOfCode": "now = datetime.datetime.now(pytz.timezone('Europe/Rome'))\nwhile True:\n    print(now)\n    if now.hour == 16: \n        CRAC_pivot()\n        modbus_pivot()\n        raw_data_pivot()\n        RDHX_pivot()\n        weather_pivot()\n        core_pivot()",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation..ipynb_checkpoints.daily_pivot-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "core_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "peekOfCode": "def core_pivot():        \n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    for metric in ['p1_core0_temp','p1_core10_temp','p1_core11_temp','p1_core12_temp','p1_core13_temp','p1_core14_temp','p1_core15_temp','p1_core16_temp',",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "documentation": {}
+    },
+    {
+        "label": "CRAC_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "peekOfCode": "def CRAC_pivot():        \n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    pub = 'vertiv_pub'",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "documentation": {}
+    },
+    {
+        "label": "modbus_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "peekOfCode": "def modbus_pivot():\n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    pub = 'logics_pub'",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "documentation": {}
+    },
+    {
+        "label": "raw_data_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "peekOfCode": "def raw_data_pivot():            \n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    for metric in ['ambient',",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "documentation": {}
+    },
+    {
+        "label": "RDHX_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "peekOfCode": "def RDHX_pivot():            \n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    pub = 'schneider_pub'",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "documentation": {}
+    },
+    {
+        "label": "weather_pivot",
+        "kind": 2,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "peekOfCode": "def weather_pivot():\n    import sys, os\n    sys.path.append('/home/seyedkazemi/codes/mskhelper/')\n    import pandas as pd, numpy as np\n    import logging\n    import datetime, pytz\n    import m100_preprocessing_helper\n    import imp \n    imp.reload(m100_preprocessing_helper)\n    pub = 'weather_pub'",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "kind": 5,
+        "importPath": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "description": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "peekOfCode": "now = datetime.datetime.now(pytz.timezone('Europe/Rome'))\nwhile True:\n    print(now)\n    if now.hour == 16: \n        CRAC_pivot()\n        modbus_pivot()\n        raw_data_pivot()\n        RDHX_pivot()\n        weather_pivot()\n        core_pivot()",
+        "detail": "thermadnet-paper.src.preprocessing.data_preparation.daily_pivot",
+        "documentation": {}
+    }
+]
