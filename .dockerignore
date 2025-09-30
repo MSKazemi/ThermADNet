@@ -1,0 +1,15 @@
+# .dockerignore
+.git
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.ipynb_checkpoints
+.env
+.venv
+# Avoid baking datasets into the image; mount at runtime instead
+data/
+# OS cruft
+.DS_Store
+Thumbs.db
