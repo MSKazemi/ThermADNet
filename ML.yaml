@@ -1,0 +1,27 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: thermadnet-pod
+  labels:
+    app: thermadnet
+spec:
+  containers:
+    - name: thermadnet-container
+      image: kazemi/thermadnet:latest
+      imagePullPolicy: IfNotPresent
+      command: ["sleep", "infinity"]   # Keeps the pod alive, override for jobs
+      resources:
+        requests:
+          cpu: "2"
+          memory: "4Gi"
+        limits:
+          cpu: "4"
+          memory: "8Gi"
+      volumeMounts:
+        - name: thermadnet-data
+          mountPath: /app/data
+  volumes:
+    - name: thermadnet-data
+      persistentVolumeClaim:
+        claimName: thermadnet-pvc
+  restartPolicy: Never
