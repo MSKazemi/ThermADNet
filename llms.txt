@@ -1,0 +1,47 @@
+# ThermADNet
+
+> ThermADNet is a deep-learning framework for thermal anomaly detection in High-Performance Computing (HPC) datacenters. It combines rule-based statistical labeling with deep neural networks (Autoencoders and LSTM-Autoencoders) that learn spatio-temporal dependencies in datacenter telemetry, and ships an MLOps pipeline (Kubernetes + Kubeflow) for continuous online inference and alerting. It was developed and validated on the CINECA Marconi-100 Tier-0 supercomputer using the ExaMon monitoring system.
+
+## What it is
+
+- Purpose: detect thermal anomalies and incipient cooling/thermal failures in HPC datacenters from operational telemetry.
+- Approach: semi-supervised anomaly detection. Rule-based statistical flags provide initial labels on a semi-normal dataset; deep autoencoder models (MLP-AE and LSTM-AE) learn normal spatio-temporal behavior and flag deviations via reconstruction error and quantile-based thresholds.
+- Data: multi-source sensing across 242 telemetry metrics (compute nodes, CRAC units, RDHX rear-door heat exchangers, Modbus, and weather), collected through the ExaMon monitoring framework.
+- Localization: anomalies are localized at system and subsystem levels.
+- Deployment: production-oriented MLOps with ExaMon integration, MQTT pub/sub for results, and CI/CD via GitHub Actions and Kubeflow Pipelines.
+- Validation: evaluated on the CINECA Marconi-100 Tier-0 supercomputer, including a real physical thermal failure event on July 28, 2021.
+
+## Repository structure
+
+- `examon/`: Python client for the ExaMon monitoring/telemetry system (query builder, KairosDB access, job client, executors).
+- `src/data_preparation/`: notebooks for preparing telemetry sources (CRAC, RDHX, core/node, Modbus, weather, raw-data cooking, rename/remove).
+- `src/models/LSTM-AE/`: LSTM-Autoencoder training and inference notebooks.
+- `src/models/MLP-AE/`: MLP-Autoencoder model notebook.
+- `src/evaluation/`: evaluation notebooks and figures (experiment results, severity/zone anomaly analysis, error boxplots, heatmaps).
+- `src/`: shared helpers — `autoencoder_helper.py`, `data_extraction.py`, `data_provider.py`, `m100_preprocessing_helper.py`, `utils.py`.
+- `pipeline.py`: Kubeflow (kfp) pipeline definition for online thermal anomaly detection with the LSTM-AE model.
+- `publishing_results.py`: publishing inference results back into the monitoring system.
+- `Dockerfile`, `ML.yaml`, `github_action_config.yaml`: containerization and CI/CD configuration.
+- `requirements.txt`: Python dependencies (PyTorch, pandas, numpy, dask, paho-mqtt, matplotlib).
+
+## Reported results (from the associated paper)
+
+- Precision, recall, and F1-score up to 0.97 on human-labeled evaluation of the July 25-30, 2021 window.
+- Operational policy: roughly 3-6 anomaly alerts per day at a 10-minute cadence; 10-13% of days flagged as stressed at baseline P90.
+- Deployment overhead: about 343 inferences/hour with under 1% additional load on the monitoring system.
+
+## Paper and citation
+
+- Title: "Elevating Datacenter Resilience with ThermADNet: A Thermal Anomaly Detection System".
+- Authors: Mohsen Seyedkazemi Ardebili, Andrea Acquaviva, Luca Benini, Andrea Bartolini.
+- Status: preprint submitted to Elsevier (September 2025). See the README for BibTeX. (No published DOI is available yet.)
+
+## Links
+
+- Repository: https://github.com/MSKazemi/ThermADNet
+- README: https://github.com/MSKazemi/ThermADNet/blob/main/README.md
+- License: MIT (https://github.com/MSKazemi/ThermADNet/blob/main/LICENSE)
+
+## Keywords
+
+thermal anomaly detection, HPC datacenter, supercomputer, autoencoder, LSTM autoencoder, deep learning, time-series anomaly detection, unsupervised learning, telemetry, ExaMon, Marconi-100, CINECA, MLOps, Kubeflow, Kubernetes, predictive maintenance, datacenter cooling, PyTorch.
